@@ -3,8 +3,9 @@
 - robotics
 - math 
 - physics
+- astrophysics
 - rocket science
-- astronomy
+- astronomy 
 
 ## **Im currently learning**
 - python
