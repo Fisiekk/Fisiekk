@@ -1,4 +1,4 @@
-## -- Hi Im @fisiekk --
+## -- Hi Im @Fisiekk --
 **Im interested in**
 - robotics
 - math 
