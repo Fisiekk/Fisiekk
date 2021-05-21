@@ -4,6 +4,7 @@
 - math 
 - physics
 - rocket science
+- astronomy
 
 ## **Im currently learning**
 - python
