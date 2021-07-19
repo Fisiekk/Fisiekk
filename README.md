@@ -6,7 +6,7 @@
 - astrophysics
 - rocket science
 - astronomy
-- microcontrollers
+- microcontrollers and microprocessors
 - Ai and machine learning
 
 ## **Im currently learning**
