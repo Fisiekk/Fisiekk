@@ -13,5 +13,10 @@
 - python
 - C/C++
 - openCV
+- linux
 - avr, arm
-- HTML, CSS, JS
+- Java Script
+
+## **I have learned(more or less)**
+- HTML, CSS
+- Arduino
