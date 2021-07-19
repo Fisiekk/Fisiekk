@@ -5,10 +5,13 @@
 - physics
 - astrophysics
 - rocket science
-- astronomy 
+- astronomy
+- microcontrollers
+- Ai and machine learning
 
 ## **Im currently learning**
 - python
-- C++
-- arduino
+- C/C++
+- openCV
+- avr, arm
 - HTML, CSS, JS
