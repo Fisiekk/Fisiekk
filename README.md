@@ -3,7 +3,6 @@
 - robotics
 - math 
 - physics
-- astrophysics
 - rocket science
 - astronomy
 - microcontrollers and microprocessors
@@ -12,11 +11,12 @@
 ## **Im currently learning**
 - python
 - C/C++
-- openCV
+- tensorflow
 - linux
-- avr, arm
+- arm
 - Java Script
 
 ## **I have learned(more or less)**
 - HTML, CSS
 - Arduino
+- opencv
