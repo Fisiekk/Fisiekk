@@ -5,7 +5,7 @@
 - physics
 - rocket science
 - astronomy
-- microcontrollers and microprocessors
+- microcontrollers, microprocessors and embedded systems
 - Ai and machine learning
 
 ## **Im currently learning**
@@ -15,6 +15,7 @@
 - linux
 - arm
 - Java Script
+- embedded systems
 
 ## **I have learned(more or less)**
 - HTML, CSS
