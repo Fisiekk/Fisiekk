@@ -1,8 +1,7 @@
 ## -- Hi Im @Fisiekk --
 **Im interested in**
 - robotics
-- math 
-- physics
+- math, physics
 - rocket science
 - astronomy
 - microcontrollers, microprocessors and embedded systems
@@ -10,11 +9,12 @@
 
 ## **Im currently learning**
 - python
-- C/C++
+- C
+- C++
 - tensorflow
 - linux
 - arm
-- Java Script
+- Java Script (mainly React)
 - embedded systems
 
 ## **I have learned(more or less)**
