@@ -1,14 +1,9 @@
 ## -- Hi Im @Fisiekk --
 
-**Im interested in**
-- robotics
-- math, physics
-- rocket science
-- astronomy
-- microcontrollers, microprocessors, embedded systems
-- Ai and machine learning
-- pentesting
-- chemistry
+## **working on**
+- hyper-realistic post-apo game engine
+- rover like robot build using rp2040 and ESP32
+- 
 
 ## **Im currently learning**
 - python
@@ -26,3 +21,12 @@
 - Arduino
 - opencv
 
+**Im interested in**
+- robotics
+- math, physics
+- rocket science
+- astronomy
+- microcontrollers, microprocessors, embedded systems
+- Ai and machine learning
+- pentesting
+- chemistry
