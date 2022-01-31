@@ -10,7 +10,6 @@
 ## **Im currently learning**
 - python
 - C
-- C++
 - tensorflow
 - linux
 - arm
