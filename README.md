@@ -1,4 +1,4 @@
-## -- Hi Im @Fisiekk --
+# -- Hi Im @Fisiekk --
 
 ## **working on**
 - hyper-realistic post-apo game engine
@@ -21,7 +21,7 @@
 - Arduino
 - opencv
 
-### **Im interested in**
+## **Im interested in**
 - robotics
 - math, physics
 - rocket science
