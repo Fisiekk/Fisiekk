@@ -1,16 +1,13 @@
 # -- Hi Im @Fisiekk --
 
 ## **Working on**
-- hyper-realistic post-apo game engine
-- rover like robot build using rp2040 and ESP32
-- easy to use libs for rp2040 SDK
+- hyper-realistic game engine
+- rover like robot build using stm32f103 and ESP32
+- easy to use libs for stm32f103
 
 ## **Currently learning**
-- python
 - C
 - asm
-- Javaa Script (mainly React)
-- tensorflow
 - linux
 - arm
 - embedded systems
@@ -27,6 +24,4 @@
 - rocket science
 - astronomy
 - microcontrollers, microprocessors, embedded systems
-- Ai and machine learning
 - pentesting
-- chemistry
